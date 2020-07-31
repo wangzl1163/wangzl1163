@@ -58,7 +58,7 @@
 [ESLint-Badge]: https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint&logoColor=white "ESLint Badge"
 
 [PostCSS-Badge]: https://img.shields.io/badge/-PostCSS-%23DD3A0A?style=flat-square&logo=postcss&logoColor=white "PostCSS Badge"
-[Less-Badge]: https://img.shields.io/badge/-less-%23DD3A0A?style=flat-square&logo=Less&logoColor=white "Less Badge"
+[Less-Badge]: https://img.shields.io/badge/-Less-%23DD3A0A?style=flat-square&logo=less&logoColor=white "Less Badge"
 
 [Node.js-Badge]: https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white "Node.js Badge"
 
