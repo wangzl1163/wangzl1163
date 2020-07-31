@@ -9,6 +9,7 @@
 
 ![Less Badge][Less-Badge]
 
+![小程序 Badge][小程序-Badge]
 ![Vue Badge][Vue-Badge]
 ![Node.js Badge][Node.js-Badge]
 ![DotNet Badge][DotNet-Badge]
@@ -50,6 +51,8 @@
 [Jest-Badge]: https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=white "Jest Badge"
 
 [Babel-Badge]: https://img.shields.io/badge/-Babel-%23F9DC3E?style=flat-square&logo=babel&logoColor=white "Babel Badge"
+
+[小程序-Badge]: https://img.shields.io/badge/-小程序-%23F9DC3E?style=flat-square&logo=小程序&logoColor=white "小程序 Badge"
 
 [Vue-Badge]: https://img.shields.io/badge/-Vue.js-%23239120?style=flat-square&logo=vue.js&logoColor=white "Vue.js Badge"
 
