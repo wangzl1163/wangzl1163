@@ -54,7 +54,7 @@
 
 [Babel-Badge]: https://img.shields.io/badge/-Babel-%23F9DC3E?style=flat-square&logo=babel&logoColor=white "Babel Badge"
 
-[Vue-Badge]: https://img.shields.io/badge/-Vue-%2361DAFB?style=flat-square&logo=vue&logoColor=white "Vue Badge"
+[Vue-Badge]: https://img.shields.io/badge/-Vue.js-%2361DAFB?style=flat-square&logo=vue.js&logoColor=white "Vue.js Badge"
 
 [Sketch-Badge]: https://img.shields.io/badge/-Sketch-%23F7B500?style=flat-square&logo=sketch&logoColor=white "Sketch Badge"
 
