@@ -1,9 +1,5 @@
 # &#10048; Hello, I'm a Front-end engineer.
 
-## <span style="font-family:Trebuchet MS;">Where can find me?</span>
-
-[![GitHub Badge][GitHub-Badge]][GitHub-Link]
-
 ## <span style="font-family:Trebuchet MS;">Languages and Tools:</span>
 
 ![HTML5 Badge][HTML5-Badge]
