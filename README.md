@@ -24,9 +24,6 @@
 
 ![Windows Badge][Windows-Badge]
 
-## <span style="font-family:Trebuchet MS;">My GitHub stats:</span>
-
-![GitHub Readme Stats][ReadmeStats-Image]
 
 <!-- #region Links -->
 
@@ -54,7 +51,7 @@
 
 [Babel-Badge]: https://img.shields.io/badge/-Babel-%23F9DC3E?style=flat-square&logo=babel&logoColor=white "Babel Badge"
 
-[Vue-Badge]: https://img.shields.io/badge/-Vue.js-%2361DAFB?style=flat-square&logo=vue.js&logoColor=white "Vue.js Badge"
+[Vue-Badge]: https://img.shields.io/badge/-Vue.js-%23239120?style=flat-square&logo=vue.js&logoColor=white "Vue.js Badge"
 
 [Sketch-Badge]: https://img.shields.io/badge/-Sketch-%23F7B500?style=flat-square&logo=sketch&logoColor=white "Sketch Badge"
 
