@@ -52,7 +52,7 @@
 
 [Babel-Badge]: https://img.shields.io/badge/-Babel-%23F9DC3E?style=flat-square&logo=babel&logoColor=white "Babel Badge"
 
-[小程序-Badge]: https://img.shields.io/badge/-小程序-%23F9DC3E?style=flat-square&logo=小程序&logoColor=white "小程序 Badge"
+[小程序-Badge]: https://img.shields.io/badge/-微信小程序-%23F9DC3E?style=flat-square&logo=微信小程序&logoColor=white "小程序 Badge"
 
 [Vue-Badge]: https://img.shields.io/badge/-Vue.js-%23239120?style=flat-square&logo=vue.js&logoColor=white "Vue.js Badge"
 
